@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small projects in Java to develop my skills and learning more about penetration testing.<br>👯 I’m looking to collaborate on essentially anything.<br>🌱 I’m currently learning SQL and Python.<br>⚡ Fun fact there is a hidden Easter egg in my profile picture that you cannot see.<br>💡 Private repositories avaliable upon request.
+🔭 I’m currently working on a tennis ball tracking app but it has a long way to go before it is finished.<br>👯 I’m looking to collaborate on essentially anything.<br>🌱 I’m currently learning SQL and Python.<br>⚡ Fun fact there is a hidden Easter egg in my profile picture that you cannot see.<br>💡 Private repositories avaliable upon request.
 
 
 ## 🌐 Socials:
