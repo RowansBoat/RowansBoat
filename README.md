@@ -5,9 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rowanfaulkner)[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/RowansBoat)
 
-
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3821675)](https://tryhackme.com/p/your-username)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rowansboat&theme=dark&hide_border=false)<br/>
 
