@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a tennis ball tracking app but it has a long way to go before it is finished.<br>🌱 I’m currently learning more about cybersecurity through TryHackMe and through my courses.<br>⚡ Fun fact there is a hidden Easter egg in on profile.<br>💡 Private repositories avaliable upon request. (CS3500)
+🔭 I’m currently working on a tennis ball tracking app but it has a long way to go before it is finished.<br>🌱 I’m currently learning more about cybersecurity through TryHackMe and through my courses.<br>⚡ Fun fact there is a hidden easter egg somewhere on my profile.<br>💡 Private repositories avaliable upon request. (CS3500)
 
 
 ## 🌐 Socials:
